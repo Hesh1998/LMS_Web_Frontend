@@ -1,9 +1,12 @@
 import './App.css';
+import Login from './views/Login';
+import Register from './views/Register';
 
 function App() {
   return (
     <div className="App">
-      <h1>lms-web</h1>
+      {/* <Login/> */}
+      <Register/>
     </div>
   );
 }
