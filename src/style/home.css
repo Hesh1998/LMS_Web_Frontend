@@ -4,7 +4,6 @@ nav.nav-menu {
   /*width: min(100%, 70%);*/
   background: #100f10;
   padding: 0.8rem;
-  border-radius: 0.3rem;
 }
 
 nav.nav-menu h2 {
@@ -12,7 +11,7 @@ nav.nav-menu h2 {
   font-size: 25px;
   display: flex;
   flex: 1 2 auto;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
 }
 
 ul.menu {
@@ -31,4 +30,20 @@ ul.menu li a {
 
 ul.menu li a:hover {
   color: #fff;
+}
+
+.slider img {
+  height: 65vh;
+  width: 100%;
+}
+
+.search {
+  width: 300px;
+  border-radius: 5px;
+  text-align: center;
+  height: 30px;
+}
+
+.course {
+  font-size: 40px;
 }
