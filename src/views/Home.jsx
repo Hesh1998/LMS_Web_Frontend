@@ -183,6 +183,77 @@ const Home = () => {
       <div className="slider">
         <img className="image1" src={Edu} alt="home slider Image " />
       </div>
+
+      <div class="category-name">Recently viewed Courses</div>
+      <div class="card-category-1">
+        <div class="basic-card basic-card-aqua">
+          <div class="card-content">
+            <span class="card-title">Combined maths</span>
+            <p class="card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s.
+            </p>
+          </div>
+
+          <div class="card-link">
+            <a href="#" title="Read Full">
+              <span>Read more..</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="basic-card basic-card-aqua">
+          <div class="card-content">
+            <span class="card-title">Combined maths</span>
+            <p class="card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s.
+            </p>
+          </div>
+
+          <div class="card-link">
+            <a href="#" title="Read Full">
+              <span>Read more..</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="basic-card basic-card-aqua">
+          <div class="card-content">
+            <span class="card-title">Combined maths</span>
+            <p class="card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s.
+            </p>
+          </div>
+
+          <div class="card-link">
+            <a href="#" title="Read Full">
+              <span>Read more..</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="basic-card basic-card-aqua">
+          <div class="card-content">
+            <span class="card-title">Combined maths</span>
+            <p class="card-text">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s.
+            </p>
+          </div>
+
+          <div class="card-link">
+            <a href="#" title="Read Full">
+              <span>Read more..</span>
+            </a>
+          </div>
+        </div>
+      </div>
     </>
   );
 };
