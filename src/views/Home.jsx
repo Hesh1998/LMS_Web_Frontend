@@ -12,17 +12,17 @@ const Home = () => {
 
           <ul class="menu">
             <li>
-              <a href="#">Home</a>
+              <a href="/">Home</a>
             </li>
             <li>
-              <a href="#">Courses</a>
+              <a href="/studentCourses">Courses</a>
             </li>
             <li>
               <a href="#">Profile</a>
             </li>
           </ul>
 
-          <div className="serach">
+          <div className="search">
             <input
               type="text"
               name="search"

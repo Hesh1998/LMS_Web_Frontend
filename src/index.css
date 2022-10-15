@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+    th {
+        @apply border-b border-gray-900 py-4 text-[20px] font-semibold
+    }   
+}
+
